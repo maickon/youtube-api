@@ -12,4 +12,4 @@ A API oferece três principais endpoints:
 
 Esses endpoints permitem que você obtenha dados estruturados em formato JSON para facilitar a integração com outras plataformas ou aplicações.
 
-Para mais detalhes e exemplos de requisições, consulte a [página da API](https://script.google.com/macros/s/AKfycbxg4OUOTkfMcXBCB-hEcRs_dEFp087EcSWibYC_QZE/dev).
+Para mais detalhes e exemplos de requisições, consulte a [página da API](https://maickon.github.io/youtube-api/).
